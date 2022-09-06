@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @debbyjamel
 - 👀 I’m interested in Robotics, Software engineering and mobile app development 
 - 🌱 I’m currently learning React, Introduction to cyber security and python 
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on projects related to the software engineering 
 - 📫 How to reach me on my email: rudojamela.rj@gmail.com
 
 <!---
